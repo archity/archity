@@ -6,8 +6,8 @@
 <a href="https://www.linkedin.com/in/archit-yadav-95482b156/">
   <img align="left" alt="Archit's Linkedin" width="22px" src="https://raw.githubusercontent.com/archity/archity/main/assets/linkedin.svg" />
 </a>
-<a href="">
-  <img align="left" alt="Archit's Medium" width="22px" src="https://raw.githubusercontent.com/archity/archity/main/assets/medium.svg" />
+<a href="https://medium.com/@archityadav97">
+  <img align="left" alt="Archit's Medium" width="22px" src="https://raw.githubusercontent.com/archity/archity/main/assets/medium.png" />
 </a>
 <a href="https://open.spotify.com/user/ht3095oj4tv2bn2j64ppw87mm?si=02be29f02813407b">
   <img align="left" alt="Archit's Spotify" width="22px" src="https://raw.githubusercontent.com/archity/archity/main/assets/spotify.svg" />
