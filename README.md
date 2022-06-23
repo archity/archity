@@ -1,16 +1,16 @@
-### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there! <img alt="Wave GIF" width="32" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />
 
 <a href="mailto:archityadav97@gmail.com">
-  <img align="left" alt="Archit's email" width="30px" src="https://raw.githubusercontent.com/archity/archity/main/assets/gmail_dark_circular.svg" />
+  <img align="left" alt="Archit's email" width="30" src="https://raw.githubusercontent.com/archity/archity/main/assets/gmail_dark_circular.svg" />
 </a>
 <a href="https://www.linkedin.com/in/archit-yadav-95482b156/">
-  <img align="left" alt="Archit's Linkedin" width="30px" src="https://raw.githubusercontent.com/archity/archity/main/assets/linkedin_icon_circle.svg" />
+  <img align="left" alt="Archit's Linkedin" width="30" src="https://raw.githubusercontent.com/archity/archity/main/assets/linkedin_icon_circle.svg" />
 </a>
 <a href="https://medium.com/@archityadav97">
-  <img align="left" alt="Archit's Medium" width="30px" src="https://raw.githubusercontent.com/archity/archity/main/assets/medium_circular_white_bg.svg" />
+  <img align="left" alt="Archit's Medium" width="30" src="https://raw.githubusercontent.com/archity/archity/main/assets/medium_circular_white_bg.svg" />
 </a>
 <a href="https://open.spotify.com/user/ht3095oj4tv2bn2j64ppw87mm?si=02be29f02813407b">
-  <img align="left" alt="Archit's Spotify" width="30px" src="https://raw.githubusercontent.com/archity/archity/main/assets/spotify.svg" />
+  <img align="left" alt="Archit's Spotify" width="30" src="https://raw.githubusercontent.com/archity/archity/main/assets/spotify.svg" />
 </a>
 
 <br><br>
